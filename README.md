@@ -1,5 +1,5 @@
 # RLStuff
-A collection of me playing around with Reinforcement Learning and other stuff. See more of my stuff on my [blog.](https://chengxi600.medium.com/)
+A collection of me playing around with Reinforcement Learning and other stuff. See more on my [blog.](https://chengxi600.medium.com/)
 
 ## Blog Posts
 
