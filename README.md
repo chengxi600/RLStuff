@@ -14,6 +14,8 @@ A collection of me playing around with Reinforcement Learning and other stuff. S
 - REINFORCE: [Reinforcement Learning: An Introduction to Policy Gradients](https://chengxi600.medium.com/reinforcement-learning-introduction-to-policy-gradients-aa2ff134c1b)
 - REINFORCE-Baseline: [Policy Gradients: REINFORCE with Baseline](https://chengxi600.medium.com/policy-gradients-reinforce-with-baseline-6c871a3a068)
 
+#### Actor-Critic
+- [Actor-Critic: Value Function Approximations](https://chengxi600.medium.com/actor-critic-value-function-approximations-b8c118dbf723)
 
 ## Other
 #### ROMS:
