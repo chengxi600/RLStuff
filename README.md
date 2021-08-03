@@ -16,6 +16,9 @@ A collection of me playing around with Reinforcement Learning and other stuff. S
 
 #### Actor-Critic
 - [Actor-Critic: Value Function Approximations](https://chengxi600.medium.com/actor-critic-value-function-approximations-b8c118dbf723)
+- Actor-Critic_TD_0: [Actor-Critic: Implementing Actor-Critic Methods](https://chengxi600.medium.com/actor-critic-implementing-actor-critic-methods-82efb998c273)
+- Actor-Critic_TD_Lambda_Forward: [Actor-Critic: Implementing Actor-Critic Methods](https://chengxi600.medium.com/actor-critic-implementing-actor-critic-methods-82efb998c273)
+- Actor-Critic_TD_Lambda_Backward: [Actor-Critic: Implementing Actor-Critic Methods](https://chengxi600.medium.com/actor-critic-implementing-actor-critic-methods-82efb998c273)
 
 ## Other
 #### ROMS:
