@@ -20,6 +20,8 @@ A collection of me playing around with Reinforcement Learning and other stuff. S
 - Actor-Critic_TD_Lambda_Forward: [Actor-Critic: Implementing Actor-Critic Methods](https://chengxi600.medium.com/actor-critic-implementing-actor-critic-methods-82efb998c273)
 - Actor-Critic_TD_Lambda_Backward: [Actor-Critic: Implementing Actor-Critic Methods](https://chengxi600.medium.com/actor-critic-implementing-actor-critic-methods-82efb998c273)
 
-## Other
+## Environments
 #### ROMS:
 - ROMs of Atari games I've used in my code. Note that with the latest version of OpenAI's gym, you need to import ROMs manually to run Atari environments.
+#### ContinuousCartPole
+- An implementation of CartPole with continuous action space by [iandanforth](https://gist.github.com/iandanforth/e3ffb67cf3623153e968f2afdfb01dc8)
