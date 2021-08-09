@@ -12,7 +12,7 @@ A collection of me playing around with Reinforcement Learning and other stuff. S
 
 #### Policy Gradients
 - REINFORCE: [Reinforcement Learning: An Introduction to Policy Gradients](https://chengxi600.medium.com/reinforcement-learning-introduction-to-policy-gradients-aa2ff134c1b)
-- REINFORCE-Continuous: [Policy-based Methods for a Continuous Action Space](https://chengxi600.medium.com/policy-based-methods-for-a-continuous-action-space-7b5ecffac43a)
+- REINFORCE-Continuous: [Policy Parameterization for a Continuous Action Space](https://chengxi600.medium.com/policy-based-methods-for-a-continuous-action-space-7b5ecffac43a)
 - REINFORCE-Baseline: [Policy Gradients: REINFORCE with Baseline](https://chengxi600.medium.com/policy-gradients-reinforce-with-baseline-6c871a3a068)
 
 #### Actor-Critic
