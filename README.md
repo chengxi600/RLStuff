@@ -14,12 +14,14 @@ A collection of me playing around with Reinforcement Learning and other stuff. S
 - REINFORCE: [Reinforcement Learning: An Introduction to Policy Gradients](https://chengxi600.medium.com/reinforcement-learning-introduction-to-policy-gradients-aa2ff134c1b)
 - REINFORCE-Continuous: [Policy Parameterization for a Continuous Action Space](https://chengxi600.medium.com/policy-based-methods-for-a-continuous-action-space-7b5ecffac43a)
 - REINFORCE-Baseline: [Policy Gradients: REINFORCE with Baseline](https://chengxi600.medium.com/policy-gradients-reinforce-with-baseline-6c871a3a068)
+- Off-Policy_Policy_Gradient: [Actor-Critic: Off-Policy Actor-Critic Algorithm](https://chengxi600.medium.com/actor-critic-off-policy-actor-critic-algorithm-cca654845558)
 
 #### Actor-Critic
 - [Actor-Critic: Value Function Approximations](https://chengxi600.medium.com/actor-critic-value-function-approximations-b8c118dbf723)
 - Actor-Critic_TD_0: [Actor-Critic: Implementing Actor-Critic Methods](https://chengxi600.medium.com/actor-critic-implementing-actor-critic-methods-82efb998c273)
 - Actor-Critic_TD_Lambda_Forward: [Actor-Critic: Implementing Actor-Critic Methods](https://chengxi600.medium.com/actor-critic-implementing-actor-critic-methods-82efb998c273)
 - Actor-Critic_TD_Lambda_Backward: [Actor-Critic: Implementing Actor-Critic Methods](https://chengxi600.medium.com/actor-critic-implementing-actor-critic-methods-82efb998c273)
+- Off-Policy_Actor-Critic: [Actor-Critic: Off-Policy Actor-Critic Algorithm](https://chengxi600.medium.com/actor-critic-off-policy-actor-critic-algorithm-cca654845558)
 
 ## Environments
 #### ROMS:
