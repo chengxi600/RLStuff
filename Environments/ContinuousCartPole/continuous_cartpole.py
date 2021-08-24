@@ -76,7 +76,7 @@ class ContinuousCartPoleEnv(gym.Env):
 
     def step(self, action):
         # Cast action to float to strip np trappings
-        force = self.force_mag * float(action)
+        force = self.force_mag * float(action[0])
         self.state = self.stepPhysics(force)
         x, x_dot, theta, theta_dot = self.state
         done = x < -self.x_threshold \
