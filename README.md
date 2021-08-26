@@ -24,7 +24,7 @@ A collection of me playing around with Reinforcement Learning and other stuff. S
 - Off-Policy_Actor-Critic: [Actor-Critic: Off-Policy Actor-Critic Algorithm](https://chengxi600.medium.com/actor-critic-off-policy-actor-critic-algorithm-cca654845558)
 
 #### Deterministic Policy Gradients
-- COPDAC-Q: [Introduction to Deterministic Policy Gradient (DPG)(https://chengxi600.medium.com/introduction-to-deterministic-policy-gradient-dpg-e7229d5248e2)
+- COPDAC-Q: [Introduction to Deterministic Policy Gradient (DPG)](https://chengxi600.medium.com/introduction-to-deterministic-policy-gradient-dpg-e7229d5248e2)
 
 ## Environments
 #### ROMS:
