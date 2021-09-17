@@ -1,6 +1,20 @@
 # RLStuff
 A collection of me playing around with Reinforcement Learning and other stuff. See more on my [blog.](https://chengxi600.medium.com/)
 
+## Implemented Algorithms
+- Q Learning
+- Deep Q Learning
+- REINFORCE
+- REINFORCE with Baseline
+- Actor-Critic TD(0)
+- Actor-Critic Forward-view TD(λ)  
+- Actor-Critic Backward-view TD(λ)  
+- Off-Policy Actor Critic
+- Compatible Off-Policy Deterministic Actor-Critic with Q Critic
+- Deep Deterministic Policy Gradient
+- Proximal Policy Optimization
+
+
 ## Blog Posts
 
 #### Genetic Algorithms
