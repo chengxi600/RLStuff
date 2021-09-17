@@ -26,6 +26,9 @@ A collection of me playing around with Reinforcement Learning and other stuff. S
 #### Deterministic Policy Gradients
 - COPDAC-Q: [Introduction to Deterministic Policy Gradient (DPG)](https://chengxi600.medium.com/introduction-to-deterministic-policy-gradient-dpg-e7229d5248e2)
 
+#### Policy Optimization Algorithms
+- PPO_Discrete: [Policy Optimizations: TRPO/PPO](https://chengxi600.medium.com/policy-optimizations-trpo-ppo-cf9479407df1)
+
 ## Environments
 #### ROMS:
 - ROMs of Atari games I've used in my code. Note that with the latest version of OpenAI's gym, you need to import ROMs manually to run Atari environments.
