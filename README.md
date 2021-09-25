@@ -3,16 +3,16 @@ A collection of me playing around with Reinforcement Learning and other stuff. S
 
 ## Implemented Algorithms
 - Q Learning
-- Deep Q Learning
-- REINFORCE
-- REINFORCE with Baseline
-- Actor-Critic TD(0)
-- Actor-Critic Forward-view TD(λ)  
-- Actor-Critic Backward-view TD(λ)  
-- Off-Policy Actor Critic
-- Compatible Off-Policy Deterministic Actor-Critic with Q Critic
-- Deep Deterministic Policy Gradient
-- Proximal Policy Optimization
+- [Deep Q Learning](https://www.nature.com/articles/nature14236)
+- [REINFORCE](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+- [REINFORCE with Baseline](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+- [Actor-Critic TD(0)](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+- [Actor-Critic Forward-view TD(λ)](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)  
+- [Actor-Critic Backward-view TD(λ)](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)  
+- [Off-Policy Actor Critic](https://arxiv.org/pdf/1205.4839.pdf)
+- [Compatible Off-Policy Deterministic Actor-Critic with Q Critic](http://proceedings.mlr.press/v32/silver14.pdf)
+- [Deep Deterministic Policy Gradient](https://arxiv.org/pdf/1509.02971.pdf)
+- [Proximal Policy Optimization](https://arxiv.org/pdf/1707.06347.pdf)
 
 
 ## Blog Posts
