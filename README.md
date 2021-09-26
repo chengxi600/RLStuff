@@ -14,8 +14,13 @@ A collection of me playing around with Reinforcement Learning and other stuff. S
 - [Deep Deterministic Policy Gradient](https://arxiv.org/pdf/1509.02971.pdf)
 - [Proximal Policy Optimization](https://arxiv.org/pdf/1707.06347.pdf)
 
+## Interesting papers
+- [Deep Reinforcement Learning that Matters](https://arxiv.org/pdf/1709.06560.pdf)
+- [Implemmentation Matters in Deep Policy Gradients: A Case Study on PPO and TRPO](https://openreview.net/attachment?id=r1etN1rtPB&name=original_pdf)
+- [What Matters In On-Policy Reinforcement Learning? A Large-Scale Empirical Study](https://arxiv.org/pdf/2006.05990.pdf)
 
-## Blog Posts
+
+## My Blog Posts
 
 #### Genetic Algorithms
 - 8Queens_GA: [Genetic Algorithm: 8 Queens Problem](https://medium.com/nerd-for-tech/genetic-algorithm-8-queens-problem-b01730e673fd)
